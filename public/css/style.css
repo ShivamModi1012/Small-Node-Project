@@ -1,0 +1,14 @@
+h1{
+    color: springgreen;
+    text-align: center;
+}
+p{
+    color: teal;
+    text-align: center;
+}
+img{
+    height: 500px;
+    width: auto;
+    margin-left: 500px ;
+    margin-right: auto;
+}
